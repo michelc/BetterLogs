@@ -1,0 +1,23 @@
+*resharper.user
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+build/
+Output/
+_ReSharper.*/
+App_Data/
+.DS_Store
+*.bak
+*.manifest
+*.exe
+*.pdb
+*.cache
+*.suo
+*.orig
+*.user
+Publish.xml
+*.rar
+*.zip
+* - Copie.*
